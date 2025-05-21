@@ -1,0 +1,15 @@
+---
+title: "193DS-hw-3"
+author: "Mariko Bronson"
+format: html
+editor: visual
+---
+
+```{r packages}
+library(tidyverse)
+```
+
+```{r}
+#| echo: false
+
+```
